@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FE33BCCA-6410-4986-B457-59A6CA6BF2C5</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D4817A1AAFB3696FBC05781954E9A4B5568A2B95</key>
+		<string>https://github.com/jacquin5/Day2Homework.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D4817A1AAFB3696FBC05781954E9A4B5568A2B95</key>
+		<string>Homework%20-%20Day%202/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jacquin5/Day2Homework.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D4817A1AAFB3696FBC05781954E9A4B5568A2B95</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D4817A1AAFB3696FBC05781954E9A4B5568A2B95</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Homework%20-%20Day%202</string>
+		</dict>
+	</array>
+</dict>
+</plist>
